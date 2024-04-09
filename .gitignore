@@ -1,4 +1,6 @@
 credential
 env
+dataset
+test_trainer
 .cache
 .ipynb_checkpoints
