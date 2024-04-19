@@ -1,4 +1,4 @@
-# Milestone 4/30
+# I. Milestone 4/30
 
 ## 1. Theory
 
@@ -47,9 +47,11 @@
 
 ## 2.2 Software
 
-### 2.2.1 Virtual environement
+### 2.2.1 Virtual environement:
 
 ### 2.2.2 Various techniques
+
+[reference](https://huggingface.co/docs/transformers/en/llm_tutorial_optimization)
 
 #### Mixed precision
 
@@ -57,3 +59,9 @@
 
 ## 3. Reference
 [google cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden/lora-qlora#:~:text=Tuning%20recommendations,-The%20following%20table&text=LoRA%20is%20about%2066%25%20faster,in%20terms%20of%20tuning%20speed.&text=While%20both%20methods%20are%20relatively,40%25%20less%20expensive%20than%20QLoRA.&text=Higher%20max%20sequence%20length%20increases,support%20higher%20max%20sequence%20lengths.)
+
+# II. Milestone 5/31
+
+## 1. Generative LLM
+
+## 2. Prompting/few-shot learning
