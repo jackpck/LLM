@@ -25,6 +25,8 @@
 
 [reference (SGD)](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2021/slides/lec07.pdf)
 
+[HF troubleshooting guide](https://huggingface.co/docs/transformers/v4.18.0/en/troubleshooting)
+
 ### Gradient descent (first-order, second-order)
 
 ### Learning rate, scheduler
@@ -63,5 +65,27 @@
 # II. Milestone 5/31
 
 ## 1. Generative LLM
+[generation config](https://huggingface.co/docs/transformers/generation_strategies)
 
 ## 2. Prompting/few-shot learning
+
+[SetFit](https://huggingface.co/blog/setfit)
+
+## 3. Sampling/ decoding strategies
+[decoding strategies](https://huggingface.co/blog/how-to-generate)
+- Multinomial sampling
+- beam-search multinomial sampling
+- Top-K sampling 
+- Top-p sampling
+
+# III. Milestone 6/30
+
+## RAG
+
+# IV. Milestone 7/31
+
+## RLHF
+
+# Misc
+
+[falcon](https://huggingface.co/blog/falcon)
