@@ -1,3 +1,18 @@
+# 0. Setup
+
+This repo was first created using python ```3.7.4```, which is too old for the newer 
+version of ```transformers``` library such as version ```4.35.2```, which is needed to
+install some of the newer LLM such as Mistral 7b or falcon 7b. The virtual environment
+based on python ```3.7.4``` is saved in ```requirements.txt```.
+
+To get around this, a new virtual environment is created under python ```3.8.0```. This
+includes newer version of ```torch``` (compatible with whatever CUDA version your local computer
+is running) and newer version of ```transformers```. This venv is saved in 
+```requirements_py38.txt```.
+
+To ```pip install -r requirements_py38.txt```, make sure you are using python ```3.8.0```. Create
+ipykernel to increase flexibility in case you are working with different python versions.
+
 # I. Milestone 4/30
 
 ## 1. Theory
