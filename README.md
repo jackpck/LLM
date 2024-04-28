@@ -33,6 +33,10 @@ ipykernel to increase flexibility in case you are working with different python 
 #### LoRA, QLoRA
 [reference (comparison and best practices)](https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden/lora-qlora#:~:text=Tuning%20recommendations,-The%20following%20table&text=LoRA%20is%20about%2066%25%20faster,in%20terms%20of%20tuning%20speed.&text=While%20both%20methods%20are%20relatively,40%25%20less%20expensive%20than%20QLoRA.&text=Higher%20max%20sequence%20length%20increases,support%20higher%20max%20sequence%20lengths.)
 
+#### Instruction fine tuning
+[reference: FLAN](https://research.google/blog/introducing-flan-more-generalizable-language-models-with-instruction-fine-tuning/)
+[reference](https://arxiv.org/pdf/2210.11416)
+
 ### 1.3 Optimizier
 [reference: p13, section IV (GD)](https://arxiv.org/pdf/1803.08823.pdf)
 
@@ -108,3 +112,4 @@ ipykernel to increase flexibility in case you are working with different python 
 # Misc
 
 [falcon](https://huggingface.co/blog/falcon)
+[useful information](https://huggingface.co/docs/transformers/en/glossary)
