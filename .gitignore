@@ -2,6 +2,9 @@ credential
 env
 dataset
 test_trainer
+testing
 .cache
 .ipynb_checkpoints
 huggingface_scraped_data
+use_cases/data
+use_cases/.ipynb_checkpoints
