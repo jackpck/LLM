@@ -68,13 +68,15 @@ ipykernel to increase flexibility in case you are working with different python 
 
 ## 2.2 Software
 
-### 2.2.1 Virtual environement:
+### 2.2.1 Virtual environment:
 
 ### 2.2.2 Various techniques
 
 [reference](https://huggingface.co/docs/transformers/en/llm_tutorial_optimization)
 
-#### Mixed precision
+#### Mixed precision/ Quantization
+[GPU inference with mixed precision best practices](https://huggingface.co/docs/transformers/en/perf_infer_gpu_one)
+
 
 #### Sharded model
 
@@ -92,7 +94,8 @@ ipykernel to increase flexibility in case you are working with different python 
 
 ## 2. Prompting/few-shot learning
 
-[SetFit](https://huggingface.co/blog/setfit)
+[SetFit (not really prompting. It's few-shot fine tuning)](https://huggingface.co/blog/setfit)
+
 
 ## 3. Sampling/ decoding strategies
 [decoding strategies](https://huggingface.co/blog/how-to-generate)
