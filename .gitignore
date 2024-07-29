@@ -8,3 +8,5 @@ testing
 huggingface_scraped_data
 use_cases/data
 use_cases/.ipynb_checkpoints
+data
+test_trainer_mlm
