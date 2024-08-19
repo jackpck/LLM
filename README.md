@@ -108,6 +108,21 @@ ipykernel to increase flexibility in case you are working with different python 
 
 ## RAG
 
+### Reranker
+- RankGPT
+
+### Keyword query expansion
+
+### Chunking (Langchain)
+- markdown header text splitter
+- recursive text splitter
+
+### Generation
+- Conformal prediction (dynamic top-k)
+
+### Evaluation
+- Auto-LLM evaluation
+
 # IV. Milestone 7/31
 
 ## RLHF
